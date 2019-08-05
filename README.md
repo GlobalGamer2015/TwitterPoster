@@ -1,7 +1,18 @@
 # TwitterPoster
 Program made for streamers by a streamer.
 
-Coming soon!
+Twitter Poster for Windows:
+<br><a href="https://github.com/GlobalGamer2015/TwitterPoster/tree/Windows-32-Bit">Twitter Poster 32-Bit</a>
+<br><a href="https://github.com/GlobalGamer2015/TwitterPoster/tree/Windows-64-Bit">Twitter Poster 64-Bit</a>
+
+Want to see more of what I do?
+<br><a href="https://www.twitch.tv/gg2015">My Twitch</a>
+<br><a href="https://twitter.com/GlobalGamer2015">My Twitter</a>
+<br><a href="Inquiry.GlobalGamer2015@gmail.com">My Email</a>
+
+Twitter Poster
+<br><a href="https://twitter.com/PosterTwittter">Twitter</a>
+<br><a href="TwitterPosterProgram@gmail.com">Email</a>
 
 #StartReadMe
 
